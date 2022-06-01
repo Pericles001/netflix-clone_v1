@@ -5,6 +5,8 @@
     padding: 40px;
     position: fixed;
     top: 0;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
     height: 30px;
     width: 100%;
     z-index: 1;
